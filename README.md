@@ -5,14 +5,14 @@
 
 ### Office requirements
 
-- **Nearby companies that also do design.
-- **30% of the company staff have at least 1 child
-- **Developers like to be near successful tech startups that have raised at least 1 Million dollars.
-- **Executives like Starbucks A LOT.
-- **Account managers need to travel a lot.
-- **Give them some place to go party.
-- **The CEO is vegan.
-- **Maintenance guy, a basketball stadium must be around 10 Km.
+- **Nearby companies that also do design.**
+- **30% of the company staff have at least 1 child**
+- **Developers like to be near successful tech startups that have raised at least 1 Million dollars.**
+- **Executives like Starbucks A LOT.**
+- **Account managers need to travel a lot.**
+- **Give them some place to go party.**
+- **The CEO is vegan.**
+- **Maintenance guy, a basketball stadium must be around 10 Km.**
 - **The office dog—"Dobby" needs a hairdresser every month**
 
 ### Let´s do it
