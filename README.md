@@ -1,6 +1,6 @@
 # geospatial-data-project
 
-![portada](https://github.com/Albertoplm/Pipelines-project/blob/main/images/futuristic-map.jpg)
+![futuristic-map](https://github.com/Albertoplm/geospatial-data-project/blob/main/images/futuristic-map.jpg)
 
 
 ### Office requirements
